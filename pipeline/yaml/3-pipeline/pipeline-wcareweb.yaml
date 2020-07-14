@@ -23,7 +23,7 @@ spec:
     #         resource: git-source-repo
     - name: build
       taskRef:
-        name: buildah-v0-10-0
+        name: buildah-v0-11-3
         kind: ClusterTask
       resources:
         inputs:
