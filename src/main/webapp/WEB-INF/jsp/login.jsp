@@ -22,7 +22,7 @@ request.getSession().setAttribute("userDisplayText", null);
 			<td colspan=2>&nbsp;</td>
 		</tr>
 		<tr>
-			<td colspan=2><center><font size=4><b> Login </b></font></center></td>
+			<td colspan=2><center><font size=4><b> Login 2 WC </b></font></center></td>
 		</tr>
 
 		<tr>
