@@ -12,7 +12,7 @@ spec:
   params:  
     - name: pathToDeploymentFiles
       description: kubectl yaml files
-      default: /workspace/git-repo/deployment/yaml
+      default: /workspace/source-repo/deployment/yaml
   tasks:
     # - name: run-test
     #   taskRef:
